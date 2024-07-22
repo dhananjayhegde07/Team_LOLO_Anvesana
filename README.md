@@ -11,16 +11,16 @@ git clone https://github.com/yourusername/yourrepository.git
 
 ## Step 2: navigate
    navigate to the directory
-## Step 2: install packages
+## Step 3: install packages
 ```bash
 npm install
 ```
-## Step 2: install packages for react native
+## Step 4: install packages for react native
 If you are using React Native version 0.60 or higher, linking is done automatically. For versions below 0.60, you need to run
 ```bash
 react-native link
 ```
-## Step 2: Run
+## Step 4: Run
 ```bash
 npm run start
 ```
